@@ -703,3 +703,6 @@ cd training-biz-sruthikairam
 source git-history.sh
 vi   git-history.sh
 source git-history.sh
+cd ..
+source git-history.sh
+cd /home/ec2-user/training-biz-sruthikairam
