@@ -709,3 +709,12 @@ cd /home/ec2-user/training-biz-sruthikairam
 source git-history.sh
 vi commandslist.txt
 source git-history.sh
+vi commandslist.txt
+crontab -e
+cd ..
+ls
+source git-history.sh
+crontab -e
+source git-history.sh
+cd home
+cd /home/ec2-user/training-biz-sruthikairam
