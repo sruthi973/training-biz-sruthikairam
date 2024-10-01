@@ -708,3 +708,4 @@ source git-history.sh
 cd /home/ec2-user/training-biz-sruthikairam
 source git-history.sh
 vi commandslist.txt
+source git-history.sh
