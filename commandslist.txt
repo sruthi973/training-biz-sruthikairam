@@ -702,3 +702,4 @@ source  training-biz-sruthikairam
 cd training-biz-sruthikairam
 source git-history.sh
 vi   git-history.sh
+source git-history.sh
